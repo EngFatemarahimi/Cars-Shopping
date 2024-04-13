@@ -16,7 +16,7 @@ main {
   grid-template-columns: 1fr;
 }
 .panel .text {
-  background: #eeeee7;
+    background: #d1dedd;
   color: #323230;
   padding: 30px 60px;
 }
