@@ -98,7 +98,7 @@ main {
     grid-template-rows: 1fr 1fr;
     border-bottom: 1px solid #dcdcd0;
   }
-  
+      
   .panel img {
     width: 100%;
   }
