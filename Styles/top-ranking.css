@@ -45,13 +45,14 @@ article p {
 aside {
   padding: 30px;
   border-left: 1px solid #ddd;
+  
 }
 footer {
   grid-column: span 3;
   text-align: center;
   border-top: 1px solid #ddd;
   padding: 30px;
-  
+
 }
 
 /* responsive */
